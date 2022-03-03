@@ -11,4 +11,5 @@ task clean(type: Delete) {
 ext{
     okHttpVersion = "4.9.1"
     glideVersion = "4.11.0"
+    materialVersion = "0.1.5"
 }

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="DrawableLayout">
+        <attr name="background_color" format="color"/>
+        <attr name="stroke_color" format="color"/>
+        <attr name="stroke_width" format="dimension"/>
+        <attr name="top_left_radius" format="dimension"/>
+        <attr name="top_right_radius" format="dimension"/>
+        <attr name="bottom_right_radius" format="dimension"/>
+        <attr name="bottom_left_radius" format="dimension"/>
+        <attr name="corner_radius" format="dimension"/>
+        <attr name="stroke_dash_width" format="dimension"/>
+        <attr name="stroke_gap_width" format="dimension"/>
+        <attr name="background_padding" format="dimension"/>
+        <attr name="background_padding_left" format="dimension"/>
+        <attr name="background_padding_right" format="dimension"/>
+        <attr name="background_padding_bottom" format="dimension"/>
+        <attr name="background_padding_top" format="dimension"/>
+    </declare-styleable>
+
+
+</resources>
