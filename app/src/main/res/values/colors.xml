@@ -7,8 +7,7 @@
     <color name="android_teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
-
-
+    <color name="transparent">#00FFFFFF</color>
 
     <!-- visit https://material.io/design/color/the-color-system.html#tools-for-picking-colors -->
     <color name="red_50">#FFEBEE</color>
